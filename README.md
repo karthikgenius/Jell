@@ -12,5 +12,5 @@ https://docs.python.org/3/library/subprocess.html
 https://unix.stackexchange.com/questions/238180/execute-shell-commands-in-python
 https://www.pythonforbeginners.com/os/subprocess-for-system-administrators
 
-The references i gave above are the things that helped me out.
+The references I gave above are the things that helped me out during my travel on Jell.
 Thank You!
