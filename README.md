@@ -7,7 +7,7 @@ As this was my first application that programmed from scratch, I will be always 
 resident in the repo.
 
 I would always be thankful for my sources of references: ( A BIG SPECIAL THANKS TO 'BUCKYROBERTS')
-https://github.com/buckyroberts
+https://github.com/buckyroberts/
 https://docs.python.org/3/library/subprocess.html
 https://unix.stackexchange.com/questions/238180/execute-shell-commands-in-python
 https://www.pythonforbeginners.com/os/subprocess-for-system-administrators
