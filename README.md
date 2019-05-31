@@ -1,4 +1,4 @@
-## What is Jell
+## What is Jell?
 Jell, a reverse shell that make victim's machine to connect to your machine. Have a Jell!
 My first Repo.
 Entirely programmed in python3.
@@ -8,10 +8,10 @@ resident in the repo.
 
 ## References:
 I would always be thankful for my sources of references: ( A BIG SPECIAL THANKS TO 'BUCKYROBERTS')
-https://github.com/buckyroberts/
-https://docs.python.org/3/library/subprocess.html
-https://unix.stackexchange.com/questions/238180/execute-shell-commands-in-python
-https://www.pythonforbeginners.com/os/subprocess-for-system-administrators
+[BuckyRoberts](https://github.com/buckyroberts/)
+[Subprocess python3 doc](https://docs.python.org/3/library/subprocess.html)
+[Execute shell commands using python](https://unix.stackexchange.com/questions/238180/execute-shell-commands-in-python)
+[Popen - Subprocess](https://www.pythonforbeginners.com/os/subprocess-for-system-administrators)
 
 The references I gave above are the things that helped me out during my travel on Jell.
 Thank You!
