@@ -8,7 +8,7 @@ def soc_create():
     global port
     soc = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     ip = ''
-    port = 9090
+    port = 9090             #give your custom port here
 
 def soc_bind():
     global ip
